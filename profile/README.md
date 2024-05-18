@@ -10,19 +10,29 @@ PenShare, öğrencilerin ders notlarını paylaşmalarını ve birbirleriyle iş
 ## Takım Üyeleri 
 
 Samet Gümüş
+
 Atakan Akgül
+
 Galip Hasan Kara
+
 Eyüphan Kütahya
+
 Selin Esra Öz
+
 ChatGPT
 
 ## Takım Üyeleri Yetkinlikleri
 
 Samet Gümüş -> Takım Lideri-Frontend Developer - Proje Yönetimi, HTML, CSS, JavaScript, React.js, kullanıcı arayüzü tasarımı
+
 ChatGPT -> Full Stack Developer 
+
 Atakan Akgül -> Frontend Developer - HTML, CSS, JavaScript, React.js, kullanıcı arayüzü tasarımı
+
 Galip Hasan Kara -> Frontend Developer - HTML, CSS, JavaScript, React.js, kullanıcı arayüzü tasarımı
+
 Eyüphan Kütahya -> Backend  Developer - Node.js, Express.js, MongoDB
+
 Selin Esra Öz -> Backend  Developer -Node.js, Express.js, MongoDB
 
 ## Teknolojiler
@@ -45,4 +55,4 @@ Trello ise bu Kanban yöntemini dijital bir platformda sunar.
 
 Trello'da her proje veya iş akışı bir "Pano" olarak adlandırılır. Panolar, genellikle işin farklı aşamalarını veya aşamaları temsil eder. Örneğin, "Yapılacaklar", "Üzerinde Çalışılanlar" ve "Tamamlananlar" gibi.
 
-Her panoda, işin birimleri "Kartlar" olarak adlandırılır. Kartlar, belirli bir görevi veya işi temsil eder. Kartlar, panolar arasında sürüklenerek işin durumu güncellenir. -->
+Her pano
