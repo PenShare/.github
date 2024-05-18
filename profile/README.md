@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-
-
 # PENSHARE
 
 Not paylaşma platformu!
