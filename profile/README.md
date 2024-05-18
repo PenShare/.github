@@ -37,7 +37,9 @@ Selin Esra Öz -> Backend  Developer -Node.js, Express.js, MongoDB
 
 ## Teknolojiler
 Frontend: React.js
+
 Backend: Node.js
+
 Veritabanı: MongoDB
 
 Node.js: Node.js, JavaScript çalıştırmak için kullanılan bir çalışma zamanı ortamıdır. Sunucu tarafında çalışır ve asenkron, olay tabanlı bir yapıya sahiptir. HTTP sunucusu olarak da kullanılabilir. Node.js, JavaScript kullanarak arka uç uygulamaları geliştirmek için idealdir.
