@@ -58,3 +58,6 @@ Trello ise bu Kanban yöntemini dijital bir platformda sunar.
 Trello'da her proje veya iş akışı bir "Pano" olarak adlandırılır. Panolar, genellikle işin farklı aşamalarını veya aşamaları temsil eder. Örneğin, "Yapılacaklar", "Üzerinde Çalışılanlar" ve "Tamamlananlar" gibi.
 
 Her panoda, işin birimleri "Kartlar" olarak adlandırılır. Kartlar, belirli bir görevi veya işi temsil eder. Kartlar, panolar arasında sürüklenerek işin durumu güncellenir. 
+
+## Demo Linki
+https://www.youtube.com/watch?v=COzyErufqVc
